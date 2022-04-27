@@ -603,7 +603,7 @@ font-size: 13px;
 
 
 .form__footer {
-   background-image: url(../images/fonNaxyi.jpg);
+   background-image: url(/images/fonNaxyi.jpg);
    background-position: center;
    background-size: cover;
    background-repeat: no-repeat;
